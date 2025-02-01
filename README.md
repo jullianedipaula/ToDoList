@@ -3,9 +3,6 @@
     <td>
       <img src="./src/assets/Logo.png" alt="Logo do Projeto" width="50px"/>
     </td>
-    <td style="font-weight: 600; font-size: 50px; padding-left: 10px;">
-      <span style="color: #FF8100;">ToDo</span> App
-    </td>
   </tr>
 </table>
 
