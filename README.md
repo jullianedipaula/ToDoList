@@ -1,6 +1,8 @@
 <table align="center">
   <tr>
+    <td>
       <img src="./src/assets/Logo.png" alt="Logo do Projeto" width="50px"/>
+    </td>
   </tr>
 </table>
 
